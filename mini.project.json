@@ -1,0 +1,6 @@
+{
+  "forceApp": true,
+  "cloud": {
+    "type": "tb-serverless"
+  }
+}
